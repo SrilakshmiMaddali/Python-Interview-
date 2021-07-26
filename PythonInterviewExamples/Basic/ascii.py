@@ -1,0 +1,1 @@
+print("Ascii of {} is {}".format('g',ord('g')))
